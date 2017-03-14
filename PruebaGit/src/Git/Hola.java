@@ -7,7 +7,7 @@ public class Hola {
 	 * Constructor de la clase Hola
 	 * Contiene un parametro de tipo String
 	 */
-	public Hola(String nombre2)
+	public Hola(String nombre)
 	{
 		this.nombre = nombre;
 	}
